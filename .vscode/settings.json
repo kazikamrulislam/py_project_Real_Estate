@@ -1,0 +1,3 @@
+{
+    "python.linting.pylintPath": "pylint_django"
+}
