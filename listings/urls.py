@@ -6,3 +6,4 @@ urlpatterns = [
     path('<int:listing_id>', views.listing, name='listing'),
     path('search', views.search, name='search'),
 ]
+ 
